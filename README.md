@@ -13,7 +13,7 @@ To write a python program to find the rank of a matrix
 ```
 #Program to find the rank of a matrix.
 #Developed by: Ajay Karthick R
-#RegisterNumber:25018493
+#RegisterNumber:212225230007
 import numpy as np
 
 matrix = np.array([[5, -3, -10], 
